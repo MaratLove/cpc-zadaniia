@@ -8,7 +8,7 @@ $text2 = "мир!";
 echo $text1 . $text2;
 
 //
-$name = "Unnamed";
+$name = "Marat";
 echo "Привет, " . $name;
 $text = "Новый текст";
 
