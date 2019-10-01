@@ -15,8 +15,3 @@ $result = $arr[0] * $arr[1] + $arr[2] * $arr[3];
 echo $result;
 
 //
-$arr2[] = 1;
-$arr2[] = 2;
-$arr2[] = 3;
-$arr2[] = 4;
-$arr2[] = 5;
